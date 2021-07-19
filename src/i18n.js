@@ -208,6 +208,31 @@ const resources = {
       select: 'Вибір мови',
     },
   },
+  'it-IT': {
+    translation: {
+      title: 'WiFi Card',
+      'desc.use':
+        'Stampa una semplice scheda con i tuoi dati di accesso WiFi. Attaccalo al frigorifero, tienilo nel portafoglio, ecc.',
+      'desc.privacy':
+        'Le tue informazioni WiFi non vengono mai inviate al server. Su questo sito Web non vengono utilizzati tracciamenti, analisi o impronte digitali. Visualizza il',
+      'desc.source': 'codice sorgente',
+      'wifi.login': 'WiFi Login',
+      'wifi.name': 'Nome Rete',
+      'wifi.name.placeholder': 'Nome della rete WiFi',
+      'wifi.password': 'Password',
+      'wifi.password.placeholder': 'Password',
+      'wifi.password.hide': 'Nascondi il campo password prima di stampare',
+      'wifi.password.encryption': 'Crittografia',
+      'wifi.tip':
+        "Punta la fotocamera del tuo telefono verso il QR Code per connetterti automaticamente",
+      'wifi.alert.name': 'Il nome della rete non può rimanere vuoto',
+      'wifi.alert.password.length.5': 'La password deve avere almeno 5 caratteri',
+      'wifi.alert.password.8': 'La password deve avere almeno 8 caratteri',
+      'button.rotate': 'Ruota',
+      'button.print': 'Stampa',
+      select: 'Seleziona Lingua',
+    },
+  },
 };
 
 i18n
